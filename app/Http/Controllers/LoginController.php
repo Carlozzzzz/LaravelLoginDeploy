@@ -16,6 +16,7 @@ class LoginController extends Controller
         }
     }
 
+    // Comment
     public function process(Request $request) {
 
         $validated = $request->validate([

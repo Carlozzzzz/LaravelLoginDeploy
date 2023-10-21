@@ -1,5 +1,5 @@
 ## My Laravel practice app
-    Create Controller -> Create Model -> Create View -> 
+    Deploying this app
 
 ## Requriements
 
